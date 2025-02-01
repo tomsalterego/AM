@@ -63,6 +63,7 @@ ankama-launcher
 anki
 anklang
 another-redis-desktop-manager
+ant-downloader
 antares
 antidot
 antimicrox
@@ -149,6 +150,7 @@ banban
 bandwhich
 baobab-gtk3
 barnacal
+bastyon
 bat
 batch-explorer
 battop
@@ -200,6 +202,7 @@ blastem
 blender
 blender-alpha
 blender-beta
+blender-rc
 blensor
 blimp
 blink
@@ -213,6 +216,7 @@ bloks
 bloomee
 bloomrpc
 blowfish
+blueglow
 bluetuith
 boardgamestar
 bodacious
@@ -369,6 +373,7 @@ colorpicker
 colorstatic-bash
 comic-book-reader
 comic-reader
+comics-downloader
 comictagger
 communicator-maui
 compass
@@ -403,6 +408,7 @@ coreshot
 corestats
 corestuff
 coreterminal
+coretime
 coreuniverse
 cosmic-comics
 cosmonium
@@ -417,6 +423,7 @@ craftos-pc
 crankshaft
 creality-print
 crg-data-tool
+cric
 criteria-geo
 criteria1d
 criteria1d-pro
@@ -449,6 +456,7 @@ cutevariant
 cutter
 czkawka
 dana
+darktable
 darktable-nightly
 dashy-app
 database-dossier
@@ -469,9 +477,11 @@ dedop-studio
 deepl-linux-electron
 deeplx
 deepnotes
+deeptags
 deerportal
 deezer
 defichain-app
+delir
 deltachat-desktop
 demonizer
 densify
@@ -479,6 +489,7 @@ deployer
 deskreen
 desmume
 destiny
+devclean
 devdocs-desktop
 devhub
 devilutionx
@@ -558,6 +569,7 @@ electron-app-store
 electron-cash
 electron-mail
 electron-react-boilerplate
+electron-ssr
 electron-utils
 electron-wechat
 electron-xiami
@@ -573,6 +585,7 @@ elementary-code
 elements
 elk
 ellas-war
+elphyre-walletshell
 elvish
 elzabrowser
 emacs
@@ -585,6 +598,7 @@ emacs-x11-daily
 embedded-ide
 ember
 emoji-keyboard
+emudeck
 en-croissant
 encryptpad
 endless-sky
@@ -628,6 +642,7 @@ explorook
 exportoo
 exsplode.re
 extraterm
+extrema
 extremetuxracer
 eyestalker
 eza
@@ -664,6 +679,7 @@ ffdec
 ffdec-nightly
 fflogs-uploader
 ffsend
+ffvim
 ffwa-facebook
 ffwa-github
 ffwa-gmail
@@ -813,6 +829,7 @@ gimp
 gimp-dev
 gimp-git
 gimp-hybrid
+gingko
 git-cliff
 git-good
 githoard
@@ -857,6 +874,7 @@ gooboxfileshare
 goodls
 goofcord
 google-chrome
+google-chrome-beta
 google-chrome-dev
 google-docs
 google-task-tauri
@@ -871,6 +889,7 @@ gotimer
 goto
 goverlay
 gpg-tui
+gpgfrontend
 gping
 gpredict
 gpt-anywhere
@@ -915,6 +934,7 @@ hastyheroes
 haveno-reto
 hctl
 hdrmerge
+heat1d
 heimer
 helio
 helioslauncher
@@ -988,6 +1008,7 @@ inkdown
 inkscape
 inkscape-next
 innerbreeze
+insight
 insomnia
 insomnium
 instead
@@ -1035,6 +1056,7 @@ join-desktop
 joplin
 joplin-beta
 jottem
+journalv
 joy2droidx
 jpg-glitch-electron
 jq
@@ -1062,6 +1084,7 @@ kanri
 kapman
 kardi
 kate
+katomic
 katvan
 kbackup
 kblackbox
@@ -1159,6 +1182,7 @@ kure
 kuro
 kwave
 kweather
+kwrite
 labplot
 lagrange
 laidout
@@ -1222,11 +1246,13 @@ local-browser
 localsend
 lockbook-cli
 lockbook-desktop
+lofi
 loginized
 logseq
 looofix
 loopauditioneer
 lore-forge
+lorien
 losslesscut
 love
 lovelive
@@ -1282,6 +1308,7 @@ mazesolver
 mbcord
 mcfly
 mcpelauncher
+mcpodcast
 mdcat
 mdl
 mdsilo-app
@@ -1359,6 +1386,7 @@ monoline
 mood-fi
 moolticute
 moonfm
+moonlight
 moonplayer
 moose
 moosync
@@ -1424,6 +1452,7 @@ nepaliunicode
 nerdfetch
 nerimity-desktop
 nest-desktop
+netbeans
 netpad
 netpanzer
 newlogic
@@ -1442,6 +1471,7 @@ nightwave-plaza-electron
 nimbus-weather
 nitch
 nitrokey
+nix-bucks
 nixnote
 nmeasimulator
 nnn
@@ -1526,6 +1556,7 @@ open-typer
 open-video-downloader
 openapi-tui
 openarena
+openaudible
 openblok
 openbor
 opencomic
@@ -1635,6 +1666,7 @@ photoflare
 photoflow
 photogimp
 photon
+photoname
 photopealoader
 photoqt
 photoquick
@@ -1685,6 +1717,7 @@ plotjuggler
 plotly-orca
 plover
 plume
+png2svg
 pnpm
 pocket-browser
 pocketcasts-electron
@@ -1707,6 +1740,7 @@ pomatez
 pomodorolm
 pomotroid
 pop
+popcorn
 popsicle
 positron
 postcat
@@ -1719,6 +1753,7 @@ powder-toy
 powerliminals-player
 powershell
 ppet3
+pragtical
 pretty-handy-privacy
 primate
 prime-world-editor
@@ -1727,6 +1762,7 @@ printerclient
 prisma-studio
 prismlauncher
 prismlauncher-qt5
+privacy.sexy
 privaxy
 procdepmonitor
 procs
@@ -1761,6 +1797,7 @@ python3.12
 python3.5
 python3.6
 python3.7
+python3.8
 python3.9
 qaddapp
 qaterialgallery
@@ -1897,6 +1934,7 @@ rubikscube
 rucola
 ruffle
 runanode
+runelite
 runjs
 running-dinner-tool
 rustdesk
@@ -1998,6 +2036,7 @@ simplex-chat
 simtoolkitpro
 singlebox
 sinon
+sioyek
 sipgate-softphone
 siril
 siyuan
@@ -2180,6 +2219,7 @@ tastee-ui
 tb
 tc
 tdlib-rs
+teams
 teamviewer
 teamviewer-host
 teamviewer-qs
@@ -2266,6 +2306,7 @@ trgui-ng
 triagem-touch
 trilium
 trinity-desktop
+tropy
 tssh
 tt
 tts-now
@@ -2544,6 +2585,7 @@ znote
 zograscope
 zoom
 zotero
+zoxide
 zramen
 zsync2
 zulip
